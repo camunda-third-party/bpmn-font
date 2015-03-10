@@ -13,7 +13,7 @@
    height="2048"
    id="svg3891"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="subprocess-expanded.svg"
    inkscape:export-filename="/home/nikku/camunda/projects/bpmn.io/bpmn-font/raw/subprocess-collapsed.png"
    inkscape:export-xdpi="0.88"
@@ -41,15 +41,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="534.43976"
-     inkscape:cy="829.17435"
+     inkscape:cx="-378.06861"
+     inkscape:cy="814.66373"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="956"
-     inkscape:window-height="1041"
-     inkscape:window-x="1600"
-     inkscape:window-y="37"
+     inkscape:window-width="1596"
+     inkscape:window-height="825"
+     inkscape:window-x="0"
+     inkscape:window-y="73"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata3896">
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,8 +74,8 @@
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.55755734;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        id="rect3804" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:94.35056305;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 677.5432,15.586522 0,31.744528 0,629.44559 0,31.7235 31.74452,0 629.42458,0 31.7445,0 0,-31.7235 0,-629.44559 0,-31.744528 -31.7445,0 -629.42458,0 -31.74452,0 z m 63.46802,63.489049 565.97758,0 0,565.956549 -565.97758,0 0,-565.956549 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;stroke:none;stroke-width:94.35056305;marker:none;enable-background:accumulate"
+       d="m 677.5432,21.586522 0,31.744528 0,629.44559 0,31.7235 31.74452,0 629.42458,0 31.7445,0 0,-31.7235 0,-629.44559 0,-31.744528 -31.7445,0 -629.42458,0 -31.74452,0 z m 63.46802,63.489049 565.97758,0 0,565.956549 -565.97758,0 0,-565.956549 z"
        id="rect3830"
        inkscape:connector-curvature="0" />
     <path
